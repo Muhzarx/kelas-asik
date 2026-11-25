@@ -1,3 +1,15 @@
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://muhzarx.github.io/kelas-asik/">
+    <img src="https://img.shields.io/badge/PLAY-LIVE%20DEMO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+**Coba KelasAsik langsung melalui browser tanpa perlu mengunduh atau menginstal aplikasi!**
+
+🔗 **Live Demo:** https://muhzarx.github.io/kelas-asik/
+
 # KelasAsik 🎓
 
 Platform belajar online untuk guru & siswa **SMP dan SMA**: kelas per jenjang, live chat, video meet, kuis dengan skor & pembahasan, game edukasi, papan skor, absensi, pengumuman, XP/level/lencana, dan ruang khusus guru.
